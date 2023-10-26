@@ -622,6 +622,7 @@ body.nav-active { overflow: hidden; }
   .navbar-list {
     display: flex;
     gap: 30px;
+    padding-right: 22rem;
   }
 
   .navbar-link {
