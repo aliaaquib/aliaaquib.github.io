@@ -121,7 +121,8 @@ a {
   text-decoration: none;
 }
 
-img { height: auto; }
+img { height: auto;
+width: auto; }
 
 input,
 button {
